@@ -1,4 +1,4 @@
-# 🏨 Hotel Management System — Full Stack Mini Project
+# 🏨 Hotel Management System 
  
 This system helps manage hotel rooms, customers, and bookings with a simple & interactive UI.
 
@@ -63,6 +63,5 @@ This system helps manage hotel rooms, customers, and bookings with a simple & in
 
 ---
 
-## 👩‍💻 Developed By
-   Saniya Mulik  
-   B.Sc Student  
+  
+
